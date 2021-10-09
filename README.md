@@ -1,4 +1,4 @@
-# Scraping-on-normal-website-vs-with-captcha
+# Scraping on normal website v/s with captcha
 
 We test the scraper.py script against 
 
